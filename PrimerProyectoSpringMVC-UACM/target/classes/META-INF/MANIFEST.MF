@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: PrimerProyectoSpringMVC-UACM
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Profesor
+Implementation-Vendor-Id: mx.edu.uacm.springboot
+Build-Jdk: 1.8.0_161
+Implementation-URL: http://projects.spring.io/spring-boot/PrimerProyec
+ toSpringMVC-UACM/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
